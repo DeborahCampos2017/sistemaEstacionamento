@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XuFRp+roZNMUiXQrjq6UFAWYzadMc0ZfYHNP0Y/+3sEFPcMWPHu69m5Jv5+AB/LjCd3fcpR1ScnAI/w18SHEKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\SistemaEstacionamento\\SistemaEstacionamento\\SistemaEstacionamento\\SistemaEstacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

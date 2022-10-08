@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\SistemaEstacionamento.exe
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\SistemaEstacionamento.deps.json
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\SistemaEstacionamento.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\SistemaEstacionamento.dll
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\ref\SistemaEstacionamento.dll
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\bin\Debug\net5.0\SistemaEstacionamento.pdb
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.dll
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\ref\SistemaEstacionamento.dll
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.pdb
+C:\Users\ASUS\Desktop\SistemaEstacionamento\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net5.0\SistemaEstacionamento.genruntimeconfig.cache
